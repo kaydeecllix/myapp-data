@@ -1,18 +1,18 @@
 {
   "users": [
     {
-      "username": "alice",
-      "display_name": "Alice Example",
+      "username": "admin",
+      "display_name": "Administrator",
       "iterations": 100000,
-      "salt": "bW9ja3NhbHQ=",
-      "hash": "k1y7I...base64..."
+      "salt": "Q2T50o+2l6ii8yaxHbDixQ==",
+      "hash": "v05Gj7iuFU6M315eHDt1WGCTegCAQSc9dMUIEGcU6Q0="
     },
     {
-      "username": "bob",
-      "display_name": "Bob Example",
+      "username": "kideh",
+      "display_name": "letusin!",
       "iterations": 100000,
-      "salt": "c29tZXNhbHQ=",
-      "hash": "z3H2v...base64..."
+      "salt": "us5+5zOTsVDRoNGpG3paZA==",
+      "hash": "rkg+HFGbJallhHGUaHnE4prq9dTSvt5lxzmHePoa3Ks="
     }
   ]
 }
