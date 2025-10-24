@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "alice",
+      "display_name": "Alice Example",
+      "iterations": 100000,
+      "salt": "bW9ja3NhbHQ=",
+      "hash": "k1y7I...base64..."
+    },
+    {
+      "username": "bob",
+      "display_name": "Bob Example",
+      "iterations": 100000,
+      "salt": "c29tZXNhbHQ=",
+      "hash": "z3H2v...base64..."
+    }
+  ]
+}
