@@ -1,5 +1,5 @@
 {
   "version": "1.1.0",
-  "download_url": "https://raw.githubusercontent.com/kaydeecllix/myapp-data/main/CLLIXOnlineLogin.exe",
-  "notes": "Initial release with online login functionality."
+  "download_url": "https://raw.githubusercontent.com/kaydeecllix/myapp-data/main/CLLIXOnlineLogin_new.exe",
+  "notes": "Added automatic updater."
 }
